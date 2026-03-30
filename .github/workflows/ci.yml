@@ -1,4 +1,4 @@
-name: CI - API Flask
+name: CI - API Flask testes
 
 on:
   push:
